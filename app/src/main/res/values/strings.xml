@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Fragmentos</string>
+    <string name="title1">Cryfor a shadow</string>
+    <string name="article1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et tellus ac urna dignissim rutrum. Proin gravida eros in sem dictum accumsan. Mauris pretium mauris neque, sed feugiat libero viverra quis. Vestibulum viverra egestas dolor, ut congue enim rhoncus sed. Curabitur eu ipsum at justo dictum porttitor quis in mi. Cras accumsan risus ac tellus porttitor, ac aliquam lorem hendrerit. Morbi ante leo, aliquet quis placerat id, hendrerit vel quam. Duis vestibulum id leo a condimentum. Pellentesque id aliquam nunc, quis egestas sem. </string>
+    <string name="title2">My Bonnie - "Ain't She Sweet"</string>
+    <string name="article2">Ut sapien orci, pellentesque feugiat arcu eget, sagittis ultricies sapien. Quisque mattis blandit facilisis. Fusce eu tincidunt urna. In vitae placerat libero, eget tincidunt ligula. Nulla facilisi. Quisque porta mauris a diam commodo tempor. Donec bibendum erat sit amet magna tempor molestie. Pellentesque elementum nec ex ut pretium. </string>
+
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="yes_message">ARTÍCULO: Me gusta</string>
+    <string name="no_message">ARTÍCULO: Gracias</string>
+    <string name="question_article">¿Te gustó el artículo?</string>
+
+    <string name="open">Abrir</string>
+    <string name="close">Cerrar</string>
+
+    <string name="exception_message">Es encesario implementar la interfaz</string>
+
+    <string name="ivDescription">Imagen</string>
 </resources>
