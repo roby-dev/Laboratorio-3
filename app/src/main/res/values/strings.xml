@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Fragmentos</string>
-    <string name="title1">Cryfor a shadow</string>
-    <string name="article1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et tellus ac urna dignissim rutrum. Proin gravida eros in sem dictum accumsan. Mauris pretium mauris neque, sed feugiat libero viverra quis. Vestibulum viverra egestas dolor, ut congue enim rhoncus sed. Curabitur eu ipsum at justo dictum porttitor quis in mi. Cras accumsan risus ac tellus porttitor, ac aliquam lorem hendrerit. Morbi ante leo, aliquet quis placerat id, hendrerit vel quam. Duis vestibulum id leo a condimentum. Pellentesque id aliquam nunc, quis egestas sem. </string>
-    <string name="title2">My Bonnie - "Ain't She Sweet"</string>
-    <string name="article2">Ut sapien orci, pellentesque feugiat arcu eget, sagittis ultricies sapien. Quisque mattis blandit facilisis. Fusce eu tincidunt urna. In vitae placerat libero, eget tincidunt ligula. Nulla facilisi. Quisque porta mauris a diam commodo tempor. Donec bibendum erat sit amet magna tempor molestie. Pellentesque elementum nec ex ut pretium. </string>
+    <string name="title1">Avengers: Infinity War</string>
+    <string name="article1">Los superhéroes se alían para vencer al poderoso Thanos, el peor enemigo al que se han enfrentado. Si Thanos logra reunir las seis gemas del infinito: poder, tiempo, alma, realidad, mente y espacio, nadie podrá detenerlo. </string>
+    <string name="title2">Avengers: Endgame</string>
+    <string name="article2">Los Vengadores restantes deben encontrar una manera de recuperar a sus aliados para un enfrentamiento épico con Thanos, el malvado que diezmó el planeta y el universo. </string>
 
     <string name="yes">Sí</string>
     <string name="no">No</string>
@@ -11,7 +11,7 @@
     <string name="no_message">ARTÍCULO: Gracias</string>
     <string name="question_article">¿Te gustó el artículo?</string>
 
-    <string name="open">Abrir</string>
+    <string name="open">Seleccionar Pélicula</string>
     <string name="close">Cerrar</string>
 
     <string name="exception_message">Es encesario implementar la interfaz</string>
@@ -19,4 +19,9 @@
     <string name="ivDescription">Imagen</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_txt">Indique su opinión</string>
+    <string name="emitir_voto">Emitir voto</string>
+    <string name="ver_votos">Ver votos</string>
+    <string name="regresar">Regresar</string>
+    <string name="resultados">RESULTADOS</string>
 </resources>

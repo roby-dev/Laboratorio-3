@@ -4,39 +4,41 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="@color/my_fragment_color"
-    android:orientation="horizontal"
+    android:orientation="vertical"
     tools:context=".SimpleFragment">
 
     <!-- TODO: Update blank fragment layout -->
+
     <TextView
         android:id="@+id/fragment_header"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         android:padding="4dp"
-        android:text="@string/question_article" />
+        android:text="@string/open"
+        android:layout_marginLeft="@dimen/standard_margin"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
     <RadioGroup
         android:id="@+id/radio_group"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">
+        android:orientation="vertical">
+
         <RadioButton
-            android:id="@+id/radio_button_yes"
+            android:id="@+id/pelicula1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="8dp"
-            android:text="@string/yes_message"/>
+            android:text="@string/title1" />
 
         <RadioButton
-            android:id="@+id/radio_button_no"
-            android:layout_width="wrap_content"
+            android:id="@+id/pelicula2"
+            android:layout_width="219dp"
             android:layout_height="wrap_content"
-            android:layout_marginRight="8dp"
-            android:text="@string/no_message" />
+            android:layout_marginLeft="8dp"
+            android:text="@string/title2" />
+
     </RadioGroup>
 
 
-
-    
 </LinearLayout>
